@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "자기 관리"
+    url: /selfmanage
+
+  - title: "네트워크"
+    url: /network
+
+  - title: "카테고리"
+    url: /categories
+  - title: "태그"
+    url: /tag
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
