@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "코비"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/Pic"
   bio              : "**남 ♂**"
   location         : "대한민국 서울특별시 어딘가"
   email            : "cobyeffect@gmail.com"
@@ -167,6 +167,7 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - assets/js/customs
   - Capfile
   - CHANGELOG
   - config
